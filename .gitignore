@@ -1,6 +1,9 @@
 # driver folder
 driver/
 
+# python Virtual Environment
+VENV/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
